@@ -2,7 +2,7 @@ arrow
 beautifulsoup4
 coverage
 docopt
-lxlm
+lxml
 path.py
 pytest
 PyYAML
