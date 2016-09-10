@@ -1,4 +1,4 @@
-# docker-python_3.5
+# docker-python
 A docker container for python
 
 **Tag list with Dockerfile links:**
