@@ -1,0 +1,9 @@
+arrow
+beautifulsoup4
+coverage
+docopt
+lxlm
+path.py
+pytest
+PyYAML
+requests
