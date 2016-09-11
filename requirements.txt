@@ -3,7 +3,7 @@ beautifulsoup4
 coverage
 docopt
 path.py
-pycharm-debug-py3k.egg
+pydevd
 pytest
 PyYAML
 requests
