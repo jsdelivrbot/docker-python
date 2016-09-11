@@ -1,6 +1,8 @@
 arrow
 beautifulsoup4
+bottle
 coverage
+Django
 docopt
 path.py
 pydevd
