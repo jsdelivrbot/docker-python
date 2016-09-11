@@ -6,3 +6,4 @@ path.py
 pytest
 PyYAML
 requests
+SQLAlchemy
