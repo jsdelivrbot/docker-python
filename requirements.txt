@@ -1,3 +1,4 @@
+aiohttp
 arrow
 beautifulsoup4
 bottle
