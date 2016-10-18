@@ -1,9 +1,11 @@
+aiohttp
 arrow
 beautifulsoup4
 bottle
 coverage
 Django
 docopt
+lxml
 path.py
 pydevd
 pytest
