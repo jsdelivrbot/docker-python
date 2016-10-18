@@ -5,7 +5,6 @@ bottle
 coverage
 Django
 docopt
-lxml
 path.py
 pydevd
 pytest
