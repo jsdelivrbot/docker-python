@@ -7,6 +7,7 @@ Django
 djangocms-installer
 docopt
 lxml
+matplotlib
 path.py
 pydevd
 pytest
