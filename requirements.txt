@@ -6,6 +6,7 @@ coverage
 Django
 docopt
 lxml
+matplotlib
 path.py
 pydevd
 pytest
