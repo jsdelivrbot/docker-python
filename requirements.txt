@@ -6,11 +6,16 @@ coverage
 Django
 djangocms-installer
 docopt
+geocoder
+geopy
+ipdb
 jupyter
 lxml
 matplotlib
 path.py
+pipenv
 pydevd
+PyQt5
 pytest
 PyYAML
 requests
